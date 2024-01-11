@@ -50,7 +50,7 @@ Devkit의 인식결과는 Bluetooth 또는 Serial 통신으로 수신할 수 있
 GambaLabs TinyML Devkit [Simple Manual] [Github code]
 
 
-## 개발
+## 구현 및 결과
 감바랩스의 GambaLabs TinyML DevKit 보드를 이용하여 3시간만에 개발을 완료해야 하는 일종의 해커톤식 경진대회이다.
 
 TinyML 보드의 성능과 정확도가 그렇게 좋지 않아 고정확도를 요구하는 모션인식이나 음성인식 활용이 불가했다.
